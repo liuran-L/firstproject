@@ -6,7 +6,7 @@ public class Change {
         String name2 = "李四";
         char aaa2 = 'a';
         boolean aab2 = true;
-
+        //1111111
         // 张三的信息
         int age1 = 18;
         double price1 = 3.14;
