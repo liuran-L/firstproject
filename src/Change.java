@@ -6,18 +6,13 @@ public class Change {
         String name2 = "李四";
         char aaa2 = 'a';
         boolean aab2 = true;
-<<<<<<< HEAD
-        //11111111
-=======
-        //1111111
->>>>>>> aaa
         // 张三的信息
         int age1 = 18;
         double price1 = 3.14;
         String name1 = "张三";
         char aaa1 = 'a';
         boolean aab1 = true;
-
+        //进行提交练习
         // 关键：添加打印语句，IDE就不会提示“变量未使用”的警告了
         System.out.println("张三的信息：");
         System.out.println("年龄：" + age1);
@@ -32,5 +27,5 @@ public class Change {
         System.out.println("姓名：" + name2);
         System.out.println("字符：" + aaa2);
         System.out.println("布尔值：" + aab2);
-    }
+    }1112312 12
 }
