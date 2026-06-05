@@ -27,5 +27,5 @@ public class Change {
         System.out.println("姓名：" + name2);
         System.out.println("字符：" + aaa2);
         System.out.println("布尔值：" + aab2);
-    }1112312 12
+    }
 }
