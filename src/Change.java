@@ -12,7 +12,7 @@ public class Change {
         String name1 = "张三";
         char aaa1 = 'a';
         boolean aab1 = true;
-        //进行提交练习
+        //进行提交练习+1
         // 关键：添加打印语句，IDE就不会提示“变量未使用”的警告了
         System.out.println("张三的信息：");
         System.out.println("年龄：" + age1);
